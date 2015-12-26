@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">69</string>
+    <string name="action_settings">Settings</string>
+    <string name="play_button">Play</string>
+    <string name="how_to_play_button">How To Play</string>
+    <string name="title_activity_display_message">69</string>
+    <string name="title_activity_dice">Dice</string>
+    <string name="title_activity_how_to_play">HowToPlayActivity</string>
+
+</resources>
